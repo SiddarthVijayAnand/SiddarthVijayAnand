@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 I'm a High School Student from Chennai.I am intrested businesses and technology.
-I'm also the CEO and Technical Head of Hire Your Choice
+I'm also the CEO and Technical Head of Hire Your Choice.
 
 ## 🛠 Skills
 - ![Instagram](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
