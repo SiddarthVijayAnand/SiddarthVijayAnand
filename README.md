@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a High School Student from Chennai.I am intrested businesses and technology.
+I'm a High School Student from Chennai. I am intrested in businesses and technology.
 I'm also the CEO and Technical Head of Hire Your Choice.
 
 ## 🛠 Skills
